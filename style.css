@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    justify-content: center;   
+}
+.formulario {
+    width: 300px;
+    padding: 10px 10px 10px;
+    margin: 20px auto;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #6E9E41; 
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: white;
+}
+.datos {
+    width: 90%;
+    height: 30px;
+    margin-bottom: 15px;
+    border-radius: 7px;
+    border: 0;
+    padding-left: 10px;
+}
+.boton {
+    margin: 10px auto;
+    width: 50%;
+    padding: 7px;
+    font-size: 15px;
+    border-radius: 20px;
+    border: 0;
+    cursor: pointer;
+    background-color: rgb(173, 173, 173);
+    color: white;
+}
+.boton:hover {
+    background-color:lightgray;
+}
+
+/*
+.visor {
+    background-color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+    padding-top: 10px;
+}
+table {
+    margin: 10px auto;
+}
+tr td {
+    width: 67px;
+    height: 40px;
+    margin: 10px;
+    background-color: lightgray;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+tr td:hover {
+    cursor: pointer;
+    background-color: rgb(167, 164, 164);
+}
+*/
